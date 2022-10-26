@@ -1,0 +1,23 @@
+/**
+ * 
+ */
+package app;
+
+/**
+ * @author Joana
+ *
+ */
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		int valor = 1;
+		
+		if(valor == 0) {
+			System.out.println("o valor é 0");
+		}else {
+			System.out.println("o valor nao é 0");
+		}
+
+	}
+
+}
